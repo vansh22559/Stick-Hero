@@ -1,11 +1,10 @@
 # Stick Hero Game
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/StickHeroCharacter.png" alt="StickHero Logo" height="125" style="margin-right: 20px;">
+  <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/StickHeroCharacter.png" alt="StickHero Logo" height="125" style="margin-right: 20px;">
   <span style="font-size: 48px; font-weight: bold;">.   .   .</span>
-  <img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/TitlePNG.png" alt="Title Logo" height="125" style="margin-left: 20px;">
+  <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/TitlePNG.png" alt="Title Logo" height="125" style="margin-left: 20px;">
   <span style="font-size: 48px; font-weight: bold;">.   .   .</span>
 </div>
-
 
 
 ## Introduction
@@ -35,7 +34,7 @@ Watch a gameplay video to see Stick Hero in action:
 
 <div style="display: flex; align-items: center;">
     <a href="https://www.youtube.com/watch?v=hRMxyOYu1eA">
-        <img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/PlayButtonPNG.png" alt="Gameplay Video" width="100" style="margin-right: 10px;">
+        <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/PlayButtonPNG.png" alt="Gameplay Video" width="100" style="margin-right: 10px;">
     </a>
     <span> Press the button to watch a video of the gameplay on YouTube</span>
 </div>
