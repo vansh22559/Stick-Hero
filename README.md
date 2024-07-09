@@ -96,4 +96,4 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 ## Credits
 
-This game project is developed by Shamik Sinha and Vaibhav Singh, inspired by the original Stick Hero game.
+This game project is developed by Vansh Yadav and Yashorvardhan Singhal, inspired by the original Stick Hero game.
