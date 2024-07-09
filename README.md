@@ -19,15 +19,13 @@ Welcome to Stick Hero, an exciting platformer game where you control Stick-Hero,
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
 <img src="https://github.com/vansh22559/Stick-Hero/blob/main/Images/Img1.jpeg" alt="Gameplay Image 1" width="400">
-<img src="https://github.com/vansh22559/Stick-Hero/blob/main/Images/Img2.jpeg" alt="Gameplay Image 2" width="400">
+<img src="https://github.com/vansh22559/Stick-Hero/blob/main/Images/img2.jpeg" alt="Gameplay Image 2" width="400">
 
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-<img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage3.png" alt="Gameplay Image 3" width="400">
-<img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage4.png" alt="Gameplay Image 4" width="400">
-
+<img src="https://github.com/vansh22559/Stick-Hero/blob/main/Images/img3.jpeg" alt="Gameplay Image 3" width="400">
+<img src="https://github.com/vansh22559/Stick-Hero/blob/main/Images/img4.jpeg" alt="Gameplay Image 4" width="400">
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
