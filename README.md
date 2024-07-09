@@ -42,7 +42,7 @@ Watch a gameplay video to see Stick Hero in action:
 
 ## Game Mechanics
 
-1. **Stick-Hero Control:** Use keyboard input to stretch out a stick and bridge gaps between pillars.
+1. **Stick-Hero Control:** Use right mouse click to stretch out a stick and bridge gaps between pillars.
    
 2. **Multiple Pillars:** Navigate Stick-Hero through platforms of varying widths and heights.
    
@@ -58,7 +58,7 @@ Watch a gameplay video to see Stick Hero in action:
 
 ### Controls
 
-- Use arrow keys or designated keys to control Stick-Hero's movements and stick extension.
+- Use right click to extend stick length and spacebar to revert the hero upside down .
 - Collect cherries and bridge gaps between platforms to score points and avoid falling into the abyss.
 
 ### Download and Setup
