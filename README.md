@@ -1,8 +1,8 @@
 # Stick Hero Game
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/StickHeroCharacter.png" alt="StickHero Logo" height="125" style="margin-right: 20px;">
+  <img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/StickHeroCharacter.png" alt="StickHero Logo" height="125" style="margin-right: 20px;">
   <span style="font-size: 48px; font-weight: bold;">.   .   .</span>
-  <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/TitlePNG.png" alt="Title Logo" height="125" style="margin-left: 20px;">
+  <img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/TitlePNG.png" alt="Title Logo" height="125" style="margin-left: 20px;">
   <span style="font-size: 48px; font-weight: bold;">.   .   .</span>
 </div>
 
@@ -18,22 +18,22 @@ Welcome to Stick Hero, an exciting platformer game where you control Stick-Hero,
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage1.png" alt="Gameplay Image 1" width="400">
-<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage2.png" alt="Gameplay Image 2" width="400">
+<img src="https://github.com/vansh22559/StickHero-Game/Images/img1.jpeg" alt="Gameplay Image 1" width="400">
+<img src="https://github.com/vansh22559/StickHero-Game/Images/img2.jpeg" alt="Gameplay Image 2" width="400">
 
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage3.png" alt="Gameplay Image 3" width="400">
-<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage4.png" alt="Gameplay Image 4" width="400">
+<img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage3.png" alt="Gameplay Image 3" width="400">
+<img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage4.png" alt="Gameplay Image 4" width="400">
 
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage5.png" alt="Gameplay Image 5" width="400">
-<img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage6.png" alt="Gameplay Image 6" width="400">
+<img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage5.png" alt="Gameplay Image 5" width="400">
+<img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/gameImage6.png" alt="Gameplay Image 6" width="400">
 
 </div>
 
@@ -44,7 +44,7 @@ Watch a gameplay video to see Stick Hero in action:
 
 <div style="display: flex; align-items: center;">
     <a href="https://www.youtube.com/watch?v=5iBd60uciAk">
-        <img src="https://github.com/theshamiksinha/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/PlayButtonPNG.png" alt="Gameplay Video" width="100" style="margin-right: 10px;">
+        <img src="https://github.com/vansh22559/StickHero-Game-JavaFX/raw/main/src/main/resources/Images/PlayButtonPNG.png" alt="Gameplay Video" width="100" style="margin-right: 10px;">
     </a>
     <span> Press the button to watch a video of the gameplay on YouTube</span>
 </div>
@@ -85,7 +85,7 @@ To download and play Stick Hero, follow these steps:
 1. **Clone the Repository:**
    - Open IntelliJ IDEA.
    - Go to `File` -> `New` -> `Project from Version Control` -> `Git`.
-   - Enter `https://github.com/theshamiksinha/StickHero-Game-JavaFX.git` as the Git repository URL and clone the project.
+   - Enter `https://github.com/vansh22559/StickHero-Game-JavaFX.git` as the Git repository URL and clone the project.
 
 2. **Configure JavaFX SDK:**
    - Extract the downloaded JavaFX SDK to a preferred location on your computer.
